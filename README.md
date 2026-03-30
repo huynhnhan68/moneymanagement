@@ -1,5 +1,5 @@
 SMART DESK - Personal Finance Tracker
-Phát triển bởi: Nguyễn Thanh Phong
+
 
 Giới thiệu
 Smart Desk là một tính năng đột phá trong ứng dụng quản lý tài chính cá nhân, tập trung vào trải nghiệm người dùng thông qua thao tác kéo-thả trực quan, mô phỏng việc quản lý tiền mặt trên bàn làm việc thực tế.
